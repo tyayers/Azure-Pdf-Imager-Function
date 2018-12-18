@@ -1,7 +1,7 @@
 .vscode/
 bin/
 obj/
-*/local.settings.json
+local.settings.json
 
 # Logs
 logs

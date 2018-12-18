@@ -1,6 +1,10 @@
 # Azure-Pdf-Imager-Function
 This node.js Azure function converts Pdfs in blob storage to image files, which are then also saved to blob storage. This can be useful for Microsoft Cognitive Services like OCR that need documents in PNG format.
 
+## Flow Diagram
+Here is the typical user flow for this function.
+![PDF conversion flow](img/flow.png.jpg)
+
 ## Usage
 Deploy this function in Azure using the Continuous Deployment functionality as documented here: [Continuous deployment for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment)
 

@@ -1,0 +1,26 @@
+{
+  "name": "azure-pdf-imager-function",
+  "version": "1.0.0",
+  "description": "An Azure Function to automatically convert PDF blobs to PNG blobs.",
+  "main": "index.js",
+  "dependencies": {
+    "pdf2png-mp2": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyayers/Azure-Pdf-Imager-Function.git"
+  },
+  "keywords": [
+    "azure-functions"
+  ],
+  "author": "tyayers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyayers/Azure-Pdf-Imager-Function/issues"
+  },
+  "homepage": "https://github.com/tyayers/Azure-Pdf-Imager-Function#readme"
+}

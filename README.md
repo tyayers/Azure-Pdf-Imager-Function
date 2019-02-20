@@ -3,7 +3,7 @@ This node.js Azure function converts Pdfs in blob storage to image files, which 
 
 ## Flow Diagram
 Here is the typical user flow for this function.
-![PDF conversion flow](img/flow.png.jpg)
+![PDF conversion flow](img/flow.png)
 
 ## Usage
 Deploy this function in Azure using the Continuous Deployment functionality as documented here: [Continuous deployment for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment)

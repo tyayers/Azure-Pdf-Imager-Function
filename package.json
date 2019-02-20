@@ -4,7 +4,7 @@
   "description": "An Azure Function to automatically convert PDF blobs to PNG blobs.",
   "main": "index.js",
   "dependencies": {
-    "pdf2png-mp2": "^1.0.3"
+    "pdf2png-mp": "^0.5.4"
   },
   "devDependencies": {},
   "scripts": {
